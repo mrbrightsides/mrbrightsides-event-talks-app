@@ -1,0 +1,12 @@
+{
+  "name": "event-website",
+  "version": "1.0.0",
+  "description": "A single-page website for a tech conference.",
+  "main": "src/generate-data.js",
+  "scripts": {
+    "build": "node src/build.js",
+    "start": "npm run build && python3 -m http.server --directory dist"
+  },
+  "author": "",
+  "license": "ISC"
+}

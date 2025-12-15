@@ -1,0 +1,123 @@
+[
+    {
+        "type": "talk",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "title": "The Future of AI in Software Development",
+        "speakers": [
+            "Dr. Evelyn Reed"
+        ],
+        "category": [
+            "AI",
+            "Development",
+            "Future Tech"
+        ],
+        "description": "A deep dive into how artificial intelligence is reshaping the landscape of software engineering, from automated code generation to intelligent testing."
+    },
+    {
+        "type": "break",
+        "title": "Coffee Break",
+        "startTime": "11:00 AM",
+        "endTime": "11:10 AM"
+    },
+    {
+        "type": "talk",
+        "startTime": "11:10 AM",
+        "endTime": "12:10 PM",
+        "title": "Mastering Quantum Computing with JavaScript",
+        "speakers": [
+            "Jason Thorne",
+            "Maria Garcia"
+        ],
+        "category": [
+            "Quantum Computing",
+            "JavaScript"
+        ],
+        "description": "Explore the fundamentals of quantum computing and how to simulate quantum circuits using a popular JavaScript library."
+    },
+    {
+        "type": "break",
+        "title": "Coffee Break",
+        "startTime": "12:10 PM",
+        "endTime": "12:20 PM"
+    },
+    {
+        "type": "talk",
+        "startTime": "12:20 PM",
+        "endTime": "01:20 PM",
+        "title": "Cybersecurity in a Post-Quantum World",
+        "speakers": [
+            "Kenji Tanaka"
+        ],
+        "category": [
+            "Cybersecurity",
+            "Quantum Computing",
+            "Security"
+        ],
+        "description": "An urgent look at the cryptographic challenges and solutions that arise as quantum computers become more powerful."
+    },
+    {
+        "type": "break",
+        "title": "Lunch Break",
+        "startTime": "01:20 PM",
+        "endTime": "02:20 PM"
+    },
+    {
+        "type": "talk",
+        "startTime": "02:20 PM",
+        "endTime": "03:20 PM",
+        "title": "Building Scalable Microservices with gRPC",
+        "speakers": [
+            "Priya Singh"
+        ],
+        "category": [
+            "Microservices",
+            "gRPC",
+            "Backend"
+        ],
+        "description": "Learn how to design and implement high-performance, scalable microservices using gRPC and Protocol Buffers."
+    },
+    {
+        "type": "break",
+        "title": "Coffee Break",
+        "startTime": "03:20 PM",
+        "endTime": "03:30 PM"
+    },
+    {
+        "type": "talk",
+        "startTime": "03:30 PM",
+        "endTime": "04:30 PM",
+        "title": "The Art of UI/UX Design for Developers",
+        "speakers": [
+            "Alex Chen",
+            "Zoe Washington"
+        ],
+        "category": [
+            "UI/UX",
+            "Design",
+            "Frontend"
+        ],
+        "description": "A practical guide for developers on how to apply fundamental UI/UX principles to create intuitive and beautiful user interfaces."
+    },
+    {
+        "type": "break",
+        "title": "Coffee Break",
+        "startTime": "04:30 PM",
+        "endTime": "04:40 PM"
+    },
+    {
+        "type": "talk",
+        "startTime": "04:40 PM",
+        "endTime": "05:40 PM",
+        "title": "Decentralized Finance: Beyond the Hype",
+        "speakers": [
+            "Samuel Jones"
+        ],
+        "category": [
+            "DeFi",
+            "Blockchain",
+            "Finance"
+        ],
+        "description": "This talk cuts through the noise to explain the core concepts of Decentralized Finance (DeFi) and its potential to revolutionize global finance."
+    }
+]
