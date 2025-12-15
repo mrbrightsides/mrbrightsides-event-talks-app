@@ -2,9 +2,6 @@
 
 A simple, single-page website for a one-day tech conference. This project dynamically generates a schedule from a JSON data source and allows users to filter talks by category.
 
-![Event Talks App Screenshot](httpsp://i.imgur.com/YOUR_SCREENSHOT.png) 
-*(Note: Replace with an actual screenshot of the application)*
-
 ---
 
 ## Features
